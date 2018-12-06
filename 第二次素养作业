@@ -1,0 +1,4 @@
+github 工作流程：
+1.把github的仓库和本地文件联系起来，创建一个文件夹，右击选择Git Bush here,输入git clone 加上远程仓库克隆的网址，然后点回车。
+2.向远程仓库上传本地文件，右键本地仓库，点击Git GUI here,点击左上角文件，检测出有变动的文件，点击移动到暂存区，然后写备注，点commit,点击push.
+3.把远程仓库的变动同步到本地，右键本地仓库，点Git GUIhere,然后点Romote,fetch from,origin,merge,local merge,完成同步
